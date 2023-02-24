@@ -1,0 +1,103 @@
+{
+  "signup": [
+    {
+      "uname": "aaditi",
+      "email": "aaditiharale1@gmail.com",
+      "password": "123",
+      "mob_number": "123456",
+      "id": 1
+    },
+    {
+      "uname": "aaditi",
+      "email": "aaditiharale1@gmail.com",
+      "password": "123",
+      "mob_number": "23456",
+      "id": 2
+    },
+    {
+      "uname": "aaditi",
+      "email": "aaditiharale1@gmail.com",
+      "password": "123",
+      "mob_number": "23456",
+      "id": 3
+    },
+    {
+      "uname": "",
+      "email": "",
+      "password": "",
+      "mob_number": "",
+      "id": 4
+    },
+    {
+      "uname": "rss",
+      "email": "rss@gmai.com",
+      "password": "123",
+      "mob_number": "123",
+      "id": 5
+    }
+  ],
+  "login": [
+    {
+      "email": "aaditiharale1@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "email": "aaditi@gmail.com",
+      "password": "567",
+      "id": 2
+    },
+    {
+      "email": "aaditiharale1@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "email": "aaditiharale1@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "email": "aaditiharale1@gmail.com",
+      "password": "123",
+      "id": 5
+    }
+  ],
+  "recipes": [
+    {
+      "title": "Pav Bhaji",
+      "ingredient": "2 tbsps Oil\n1/2 cup Butter\n3/4 cup Chopped Onions\n3/4 cup Chopped Capsicum\n3/4 cup Fresh Peas\n1 tbsp Ginger Garlic Paste\n1/2 cup Diced Tomatoes\n3/4 cup Well cooked Potatoes\n1 tsp Kasuri Methi (Dried Fenugreek Leaves)\n2 tsps Pav Bhaji Masala Powder\n1 tsp Kashmiri Mirch\nSalt\n2 tbsps Chopped Green Coriander\n2 Pave Bread",
+      "step": "1. Heat oil and melt 2 spoons of butter in a pan and add Onions, Capsicum, and Peas and cook for 2 minutes. That is, cook until the onions become soft.\n2. Now add Ginger Garlic Paste and fry for a minute, add Tomatoes and cook again, until soft.\n3. Now add Salt, Kasuri Methi, Mirchi Powder, and Pav Bhaji Masala and add the Potatoes fried and cooked. Mix well.\n4. Take a Masher and smash all the cooked vegetables into a soft paste. The more you mash the vegetables.\n5. Now add 300 ml water and cook on high flame until the vegetables come together. If the Bhaji is too thick, add some more water.\n6. Now add Green Coriander and ¼ cup Butter and keep stirring until the whole mixture thickens and then remove from fire.\n",
+      "cat": "Maharashtrian",
+      "id": 1
+    },
+    {
+      "title": "Misal Pav",
+      "ingredient": "for pressure cooking:\n2 cup moth beans / matki (sprouts)\n¼ tsp turmeric\n½ tsp salt\n1 cup water\nfor masala paste:\n2 tsp oil\n2 inch ginger (roughly chopped)\n1 onion (finely chopped)\n2 clove garlic\n¼ cup dry coconut / kopra\n1 to mato (finely chopped)\n¼ cup water\nother ingredients:\n3 tbsp oil\n1 tsp mustard\n1 tsp jeera / cumin\nfew curry leaves\n1 tsp kashmiri red chilli pwoder\n¼ tsp turmeric / haldi\n1 tsp coriander powder\n1 tsp garam masala / goda masala\nsmall piece jaggery / gud\n½ tsp salt\n5 cup water\nfor serving\n2 cup farsan / mixture\n½ onion (finely chopped)\n2 tbsp coriander leaves (finely chopped)\n6 pav\n1 lemon (quarter)\n\n",
+      "step": "1\nFine chop onion, tomato, green chili, and coriander. Set aside. Heat little oil in a pressure cooker, add mustard seeds, chopped green chili, curry leaves and let it crackle. Cook till fragrant.\n2\nAdd chopped onion and cook well. Add ginger-garlic paste and cook till rawness has disappeared. Add tomato and all powdered masala and add a little water. cook further.\n3\nAdd the sprouts and water. Add salt to taste.\n4\nCover the pressure cooker lid, let it cook on a medium flame. Give 3-4 whistles(15-20) mins.\n5\nFinish with chopped coriander and check the seasoning.\n6\nServe the misal along with pav buns, lemon wedge, namkeen and chopped onion.",
+      "cat": "Maharashtrian",
+      "id": 2
+    },
+    {
+      "title": "Dosa",
+      "ingredient": "for batter:\n3 cup sona masuri rice\n½ tsp methi / fenugreek seeds\nwater (for soaking)\n1 cup urad dal\n2 tbsp toor dal\n2 tbsp chana dal\n1 cup poha / avalakki (rinsed)\nfor aloo bhaji:\n2 tbsp oil\n1 tsp mustard\n1 tsp urad dal\n1 tsp chana dal\n1 dried red chilli\nfew curry leaves\npinch hing / asafoetida\n2 chilli (finely chopped)\n1 inch ginger (finely chopped)\n1 onion (sliced)\n¼ tsp turmeric\n1 tsp salt\n3 potato (boiled & mashed)\n2 tbsp coriander (finely chopped)\n2 tbsp lemon juice",
+      "step": "masala dosa batter preparation:\nfirstly, in a large bowl take 3 cup sona masuri rice and ½ tsp methi.\nrinse well and soak in enough water for 4 hours.\nin another bowl take 1 cup urad dal, 2 tbsp toor dal and 2 tbsp chana dal.\nrinse well and soak in enough water for 2 hours.\nafter soaking dal for 2 hours, drain off the water and transfer to the grinder. you can also grind in mixi if you do not have access to a grinder.\nadd water as required and blend to smooth paste.\nscrape sides. the smooth and fluffy batter will be ready after 40 minutes.\ntransfer the batter to a large vessel and keep aside.\nin the same grinder add soaked rice and 1 cup rinsed poha.\nadd water slowly and scrape the sides. blend to a coarse paste.\ntransfer the rice batter to the same urad dal batter.\nmix well making sure everything is well combined.\nferment in a warm place for at least 8 hours or until the batter doubles in volume. if you are living in a cold climate, then you can place the batter in the warm oven (just heat the oven until it turns slightly warm and then turn off) to ferment.\nonce the batter is well fermented, mix gently, without disturbing the air pockets.\ntransfer 4 cups of fermented batter to a small bowl and add 1 tsp salt.\nmix well until the salt is well combined. masala dosa batter is ready. keep aside.\naloo bhaji preparation:\nfirstly, in a large kadai heat 2 tbsp oil and splutter 1 tsp mustard, 1 tsp urad dal, 1 tsp chana dal, 1 dried red chilli, few curry leaves, pinch hing.\nnow add 2 chilli and 1 inch ginger. saute well.\nalso, add 1 onion and saute until onions shrink slightly.\nfurther, add ¼ tsp turmeric and 1 tsp salt. saute well.\nnow add 3 potato and mix well, mash slightly making sure everything is well combined.\nturn off the flame and add 2 tbsp coriander and 2 tbsp lemon juice.\nmix well and aloo bhaji for masala dosa is ready. keep aside.\nmasala dosa preparation:\nfirstly, add a ladleful of batter on hot tawa.\nspread as thin as possible making a crispy dosa.\ntake 1 tsp of butter and spread uniformly.\nalso, place 2 tbsp of prepared aloo masala in the centre.\nroast until the dosa turns golden brown and crisp.\nscrape the sides of dosa and roll the dosa.\nfinally, masala dosa recipe is ready to serve with coconut chutney and sambar.\n",
+      "cat": "South Indian",
+      "id": 3
+    },
+    {
+      "title": "Idli",
+      "ingredient": "1 cup urad dal\n2 cup idli rice\nwater (for soaking and grinding)\n2 tsp salt",
+      "step": "firstly, in a large bowl soak 1 cup urad dal for 2 hours.\nalso, soak 2 cup idli rice for hours.\nafter, 1 hour of soaking of urad dal, drain off the water and transfer to the grinder.\ngrind for 45 minutes adding water as required. use urad dal soaked water for grinding, as it helps in fermentation.\nscrape the sides and grind until the batter turns soft and fluffy.\ntransfer the batter to a large vessel and keep it aside.\nin the same grinder add soaked rice and grind.\ngrind to a coarse paste adding water as required.\ntransfer the rice batter to the same vessel.\nmix well making sure everything is well combined. mixing the batter with hand helps to aid fermentation.\ncover and ferment in a warm place for 8 hours.\nthe batter is well fermented when it has doubled in volume.\nmix the batter gently, without disturbing the air pockets.\nadd 2 tsp salt and mix gently.\ngrease the idli plate with oil and pour the batter.\nsteam the idli for 10 minutes or until the toothpick inserted comes out clean.\nfinally, enjoy soft idli with chutney and sambar.",
+      "cat": "South Indian",
+      "id": 4
+    },
+    {
+      "title": "Chole Bhature",
+      "ingredient": "for bhatura:\n2 cup maida\n2 tbsp rava / semolina (fine)\n1 tsp sugar\n¼ tsp baking soda\n1 tsp sugar\n½ tsp salt\n2 tbsp oil\n¼ cup curd\nwater (for kneading)\noil (for frying)\nfor pressure cooking chole:\n1 cup chana / chickpea (soaked overnight)\n2 tea bags\n¼ tsp baking soda\n1 tsp salt\n3 cup water\nfor chhole preparation:\n2 tbsp oil\n1 bay leaf\n1 black cardamom\n2 pod cardamom\n1 inch cinnamon\n1 tsp cumin / jeera\n½ tsp kasuri methi\n1 onion (finely chopped)\n1 tsp ginger garlic paste\n¼ tsp turmeric\n1 tsp chilli powder\n1 tsp coriander powder\n½ tsp cumin powder\n½ tsp garam masala\n1 tsp aamchur\n¼ tsp salt\n1½ cup tomato puree\n2 tbsp coriander (finely chopped)\nfor tempering:\n1 tbsp ghee / clarified butter\n2 chilli (slit)\n¼ tsp turmeric\n¼ tsp chilli powder\n¼ tsp garam masala",
+      "step": "how to make bhatura recipe:\nfirstly, in a large bowl take 2 cup maida, 2 tbsp rava, 1 tsp sugar, ¼ tsp baking soda, 1 tsp sugar, ½ tsp salt and 2 tbsp oil. mix well.\nnow add ¼ cup curd and mix well making sure everything is well combined.\nfurther, add water as required and knead the dough.\nknead to the smooth and soft dough without putting much pressure.\ngrease the dough with oil, cover and rest for 2 hours\nafter 2 hours, knead the dough slightly.\npinch a ball sized dough and make a ball without andy cracks.\nroll slightly thick, applying oil to prevent from sticking.\ndrop the rolled dough into the hot oil.\npress until the bhature puffs up and splash oil to puff up fully.\nflip over and fry until it turns golden brown.\nfinally, drain off the bhatura and is ready to enjoy with chole masala.\nhow to make chole recipe for batura:\nfirstly, in a pressure cooker take soaked chana. i have soaked 1 cup chana in enough water for 8 hours.\nadd 2 tea bags, ¼ tsp baking soda, 1 tsp salt and 3 cup water.\ncover and pressure cook for 5 whistles. if you do not have tea bags, then you can prepare tea decoction and add to cooker.\nonce the pressure releases, open the cooker and discard the tea bags. keep aside.\nin a large kadai, heat 2 tbsp oil, 1 bay leaf, 1 black cardamom, 2 pod cardamom, 1 inch cinnamon, 1 tsp cumin, ½ tsp kasuri methi. saute on low flame until the spices turn aroamtic.\nnow add 1 onion, 1 tsp ginger garlic paste and saute until onions turn golden brown.\nadd ¼ tsp turmeric, 1 tsp chilli powder, 1 tsp coriander powder, ½ tsp cumin powder, ½ tsp garam masala, 1 tsp aamchur and ¼ tsp salt.\nsaute on low flame until the spices turn aromatic.\nfurther add 1½ cup tomato puree and saute until the oil separates. to prepare tomato puree, i have blended 2½ ripened tomatoes in blender without adding water.\nnow add boiled chole and mix well. adjust consistency by adding water if required.\ncover and simmer for 10 minutes, or until chole absorbs all the flavour.\nto prepare the tempering, heat 1 tbsp ghee in a pan.\nadd 2 chilli, ¼ tsp turmeri, ¼ tsp chilli powder and ¼ tsp garam masala.\nsaute on low flame without burning the spices.\npour the tempering over the chole masala, add 2 tbsp coriander and mix well.\nfinally, chole bhature is ready to enjoy with some onions.",
+      "cat": "North Indian",
+      "id": 5
+    }
+  ]
+}
