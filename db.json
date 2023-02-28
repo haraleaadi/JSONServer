@@ -1,103 +1,122 @@
 {
-  "signup": [
+  "user": [
     {
       "uname": "aaditi",
-      "email": "aaditiharale1@gmail.com",
-      "password": "123",
-      "mob_number": "123456",
-      "id": 1
-    },
-    {
-      "uname": "aaditi",
-      "email": "aaditiharale1@gmail.com",
-      "password": "123",
-      "mob_number": "23456",
-      "id": 2
-    },
-    {
-      "uname": "aaditi",
-      "email": "aaditiharale1@gmail.com",
-      "password": "123",
-      "mob_number": "23456",
-      "id": 3
-    },
-    {
-      "uname": "",
-      "email": "",
-      "password": "",
-      "mob_number": "",
-      "id": 4
-    },
-    {
-      "uname": "rss",
-      "email": "rss@gmai.com",
-      "password": "123",
-      "mob_number": "123",
-      "id": 5
-    }
-  ],
-  "login": [
-    {
-      "email": "aaditiharale1@gmail.com",
-      "password": "123",
-      "id": 1
-    },
-    {
       "email": "aaditi@gmail.com",
-      "password": "567",
+      "password": "123",
+      "mob_number": "1234",
+      "id": 1
+    },
+    {
+      "uname": "aaditi",
+      "email": "aaditi@gmail.com",
+      "password": "123",
+      "mob_number": "1234",
       "id": 2
     },
     {
-      "email": "aaditiharale1@gmail.com",
+      "uname": "Aaditi",
+      "email": "aish@gmail.com",
       "password": "123",
+      "mob_number": "234",
       "id": 3
-    },
-    {
-      "email": "aaditiharale1@gmail.com",
-      "password": "123",
-      "id": 4
-    },
-    {
-      "email": "aaditiharale1@gmail.com",
-      "password": "123",
-      "id": 5
     }
   ],
   "recipes": [
     {
       "title": "Pav Bhaji",
+      "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Instant-Pot-Mumbai-Pav-Bhaji.jpg",
       "ingredient": "2 tbsps Oil\n1/2 cup Butter\n3/4 cup Chopped Onions\n3/4 cup Chopped Capsicum\n3/4 cup Fresh Peas\n1 tbsp Ginger Garlic Paste\n1/2 cup Diced Tomatoes\n3/4 cup Well cooked Potatoes\n1 tsp Kasuri Methi (Dried Fenugreek Leaves)\n2 tsps Pav Bhaji Masala Powder\n1 tsp Kashmiri Mirch\nSalt\n2 tbsps Chopped Green Coriander\n2 Pave Bread",
       "step": "1. Heat oil and melt 2 spoons of butter in a pan and add Onions, Capsicum, and Peas and cook for 2 minutes. That is, cook until the onions become soft.\n2. Now add Ginger Garlic Paste and fry for a minute, add Tomatoes and cook again, until soft.\n3. Now add Salt, Kasuri Methi, Mirchi Powder, and Pav Bhaji Masala and add the Potatoes fried and cooked. Mix well.\n4. Take a Masher and smash all the cooked vegetables into a soft paste. The more you mash the vegetables.\n5. Now add 300 ml water and cook on high flame until the vegetables come together. If the Bhaji is too thick, add some more water.\n6. Now add Green Coriander and ¼ cup Butter and keep stirring until the whole mixture thickens and then remove from fire.\n",
-      "cat": "Maharashtrian",
+      "category": "Maharashtrian",
       "id": 1
     },
     {
       "title": "Misal Pav",
+      "image": "https://t3.ftcdn.net/jpg/03/67/95/04/360_F_367950457_q5L44UUBzQHjAn3D2m6HDePoIfnurDoX.jpg",
       "ingredient": "for pressure cooking:\n2 cup moth beans / matki (sprouts)\n¼ tsp turmeric\n½ tsp salt\n1 cup water\nfor masala paste:\n2 tsp oil\n2 inch ginger (roughly chopped)\n1 onion (finely chopped)\n2 clove garlic\n¼ cup dry coconut / kopra\n1 to mato (finely chopped)\n¼ cup water\nother ingredients:\n3 tbsp oil\n1 tsp mustard\n1 tsp jeera / cumin\nfew curry leaves\n1 tsp kashmiri red chilli pwoder\n¼ tsp turmeric / haldi\n1 tsp coriander powder\n1 tsp garam masala / goda masala\nsmall piece jaggery / gud\n½ tsp salt\n5 cup water\nfor serving\n2 cup farsan / mixture\n½ onion (finely chopped)\n2 tbsp coriander leaves (finely chopped)\n6 pav\n1 lemon (quarter)\n\n",
       "step": "1\nFine chop onion, tomato, green chili, and coriander. Set aside. Heat little oil in a pressure cooker, add mustard seeds, chopped green chili, curry leaves and let it crackle. Cook till fragrant.\n2\nAdd chopped onion and cook well. Add ginger-garlic paste and cook till rawness has disappeared. Add tomato and all powdered masala and add a little water. cook further.\n3\nAdd the sprouts and water. Add salt to taste.\n4\nCover the pressure cooker lid, let it cook on a medium flame. Give 3-4 whistles(15-20) mins.\n5\nFinish with chopped coriander and check the seasoning.\n6\nServe the misal along with pav buns, lemon wedge, namkeen and chopped onion.",
-      "cat": "Maharashtrian",
+      "category": "Maharashtrian",
       "id": 2
     },
     {
       "title": "Dosa",
+      "image": "https://media.istockphoto.com/id/909906350/photo/masala-dosa-south-indian-food.jpg?s=612x612&w=0&k=20&c=3CI-bw2NhYaX_t0-CZIXIIXsOygFcUaoGSmzbnVB-fU=",
       "ingredient": "for batter:\n3 cup sona masuri rice\n½ tsp methi / fenugreek seeds\nwater (for soaking)\n1 cup urad dal\n2 tbsp toor dal\n2 tbsp chana dal\n1 cup poha / avalakki (rinsed)\nfor aloo bhaji:\n2 tbsp oil\n1 tsp mustard\n1 tsp urad dal\n1 tsp chana dal\n1 dried red chilli\nfew curry leaves\npinch hing / asafoetida\n2 chilli (finely chopped)\n1 inch ginger (finely chopped)\n1 onion (sliced)\n¼ tsp turmeric\n1 tsp salt\n3 potato (boiled & mashed)\n2 tbsp coriander (finely chopped)\n2 tbsp lemon juice",
       "step": "masala dosa batter preparation:\nfirstly, in a large bowl take 3 cup sona masuri rice and ½ tsp methi.\nrinse well and soak in enough water for 4 hours.\nin another bowl take 1 cup urad dal, 2 tbsp toor dal and 2 tbsp chana dal.\nrinse well and soak in enough water for 2 hours.\nafter soaking dal for 2 hours, drain off the water and transfer to the grinder. you can also grind in mixi if you do not have access to a grinder.\nadd water as required and blend to smooth paste.\nscrape sides. the smooth and fluffy batter will be ready after 40 minutes.\ntransfer the batter to a large vessel and keep aside.\nin the same grinder add soaked rice and 1 cup rinsed poha.\nadd water slowly and scrape the sides. blend to a coarse paste.\ntransfer the rice batter to the same urad dal batter.\nmix well making sure everything is well combined.\nferment in a warm place for at least 8 hours or until the batter doubles in volume. if you are living in a cold climate, then you can place the batter in the warm oven (just heat the oven until it turns slightly warm and then turn off) to ferment.\nonce the batter is well fermented, mix gently, without disturbing the air pockets.\ntransfer 4 cups of fermented batter to a small bowl and add 1 tsp salt.\nmix well until the salt is well combined. masala dosa batter is ready. keep aside.\naloo bhaji preparation:\nfirstly, in a large kadai heat 2 tbsp oil and splutter 1 tsp mustard, 1 tsp urad dal, 1 tsp chana dal, 1 dried red chilli, few curry leaves, pinch hing.\nnow add 2 chilli and 1 inch ginger. saute well.\nalso, add 1 onion and saute until onions shrink slightly.\nfurther, add ¼ tsp turmeric and 1 tsp salt. saute well.\nnow add 3 potato and mix well, mash slightly making sure everything is well combined.\nturn off the flame and add 2 tbsp coriander and 2 tbsp lemon juice.\nmix well and aloo bhaji for masala dosa is ready. keep aside.\nmasala dosa preparation:\nfirstly, add a ladleful of batter on hot tawa.\nspread as thin as possible making a crispy dosa.\ntake 1 tsp of butter and spread uniformly.\nalso, place 2 tbsp of prepared aloo masala in the centre.\nroast until the dosa turns golden brown and crisp.\nscrape the sides of dosa and roll the dosa.\nfinally, masala dosa recipe is ready to serve with coconut chutney and sambar.\n",
-      "cat": "South Indian",
+      "category": "South Indian",
       "id": 3
     },
     {
       "title": "Idli",
+      "image": "https://t3.ftcdn.net/jpg/01/61/13/66/360_F_161136674_NgVFcPtWfwLPY03NpJUrSiH9oDvma9Rn.jpg",
       "ingredient": "1 cup urad dal\n2 cup idli rice\nwater (for soaking and grinding)\n2 tsp salt",
       "step": "firstly, in a large bowl soak 1 cup urad dal for 2 hours.\nalso, soak 2 cup idli rice for hours.\nafter, 1 hour of soaking of urad dal, drain off the water and transfer to the grinder.\ngrind for 45 minutes adding water as required. use urad dal soaked water for grinding, as it helps in fermentation.\nscrape the sides and grind until the batter turns soft and fluffy.\ntransfer the batter to a large vessel and keep it aside.\nin the same grinder add soaked rice and grind.\ngrind to a coarse paste adding water as required.\ntransfer the rice batter to the same vessel.\nmix well making sure everything is well combined. mixing the batter with hand helps to aid fermentation.\ncover and ferment in a warm place for 8 hours.\nthe batter is well fermented when it has doubled in volume.\nmix the batter gently, without disturbing the air pockets.\nadd 2 tsp salt and mix gently.\ngrease the idli plate with oil and pour the batter.\nsteam the idli for 10 minutes or until the toothpick inserted comes out clean.\nfinally, enjoy soft idli with chutney and sambar.",
-      "cat": "South Indian",
+      "category": "South Indian",
       "id": 4
     },
     {
       "title": "Chole Bhature",
+      "image": "https://images.herzindagi.info/image/2020/Oct/chole-bhature-for-health-tips.jpg",
       "ingredient": "for bhatura:\n2 cup maida\n2 tbsp rava / semolina (fine)\n1 tsp sugar\n¼ tsp baking soda\n1 tsp sugar\n½ tsp salt\n2 tbsp oil\n¼ cup curd\nwater (for kneading)\noil (for frying)\nfor pressure cooking chole:\n1 cup chana / chickpea (soaked overnight)\n2 tea bags\n¼ tsp baking soda\n1 tsp salt\n3 cup water\nfor chhole preparation:\n2 tbsp oil\n1 bay leaf\n1 black cardamom\n2 pod cardamom\n1 inch cinnamon\n1 tsp cumin / jeera\n½ tsp kasuri methi\n1 onion (finely chopped)\n1 tsp ginger garlic paste\n¼ tsp turmeric\n1 tsp chilli powder\n1 tsp coriander powder\n½ tsp cumin powder\n½ tsp garam masala\n1 tsp aamchur\n¼ tsp salt\n1½ cup tomato puree\n2 tbsp coriander (finely chopped)\nfor tempering:\n1 tbsp ghee / clarified butter\n2 chilli (slit)\n¼ tsp turmeric\n¼ tsp chilli powder\n¼ tsp garam masala",
       "step": "how to make bhatura recipe:\nfirstly, in a large bowl take 2 cup maida, 2 tbsp rava, 1 tsp sugar, ¼ tsp baking soda, 1 tsp sugar, ½ tsp salt and 2 tbsp oil. mix well.\nnow add ¼ cup curd and mix well making sure everything is well combined.\nfurther, add water as required and knead the dough.\nknead to the smooth and soft dough without putting much pressure.\ngrease the dough with oil, cover and rest for 2 hours\nafter 2 hours, knead the dough slightly.\npinch a ball sized dough and make a ball without andy cracks.\nroll slightly thick, applying oil to prevent from sticking.\ndrop the rolled dough into the hot oil.\npress until the bhature puffs up and splash oil to puff up fully.\nflip over and fry until it turns golden brown.\nfinally, drain off the bhatura and is ready to enjoy with chole masala.\nhow to make chole recipe for batura:\nfirstly, in a pressure cooker take soaked chana. i have soaked 1 cup chana in enough water for 8 hours.\nadd 2 tea bags, ¼ tsp baking soda, 1 tsp salt and 3 cup water.\ncover and pressure cook for 5 whistles. if you do not have tea bags, then you can prepare tea decoction and add to cooker.\nonce the pressure releases, open the cooker and discard the tea bags. keep aside.\nin a large kadai, heat 2 tbsp oil, 1 bay leaf, 1 black cardamom, 2 pod cardamom, 1 inch cinnamon, 1 tsp cumin, ½ tsp kasuri methi. saute on low flame until the spices turn aroamtic.\nnow add 1 onion, 1 tsp ginger garlic paste and saute until onions turn golden brown.\nadd ¼ tsp turmeric, 1 tsp chilli powder, 1 tsp coriander powder, ½ tsp cumin powder, ½ tsp garam masala, 1 tsp aamchur and ¼ tsp salt.\nsaute on low flame until the spices turn aromatic.\nfurther add 1½ cup tomato puree and saute until the oil separates. to prepare tomato puree, i have blended 2½ ripened tomatoes in blender without adding water.\nnow add boiled chole and mix well. adjust consistency by adding water if required.\ncover and simmer for 10 minutes, or until chole absorbs all the flavour.\nto prepare the tempering, heat 1 tbsp ghee in a pan.\nadd 2 chilli, ¼ tsp turmeri, ¼ tsp chilli powder and ¼ tsp garam masala.\nsaute on low flame without burning the spices.\npour the tempering over the chole masala, add 2 tbsp coriander and mix well.\nfinally, chole bhature is ready to enjoy with some onions.",
-      "cat": "North Indian",
+      "category": "North Indian",
       "id": 5
+    },
+    {
+      "title": "Puran Poli",
+      "ingredient": "for puran (dal stuffing):\n1½ cup chana dal\n¼ tsp turmeric\n½ tsp ghee\n3 cup water\n1½ cup jaggery\n1 tsp ghee\n½ tsp cardamom powder\nfor poli (outer covering):\n2 cup wheat flour\n1 cup maida\n¼ tsp turmeric\n¼ tsp salt\n2 tbsp oil\nwater (for kneading)\nother ingredients:\nmaida (for dusting)\nghee (for roasting)",
+      "step": "firstly, in a large bowl soak 1½ cup chana dal for 1 hour.\ndrain off the water and transfer it to the cooker.\nadd ¼ tsp turmeric, ½ tsp ghee, 3 cup water.\npressure cook for 3 whistles on medium flame.\nnow drain off the water separating dal and water.\ntransfer the dal to a large kadai.\nadd 1½ cup jaggery and mix well.\nonce the jaggery melts, start to mash the dal.\nmash until the dal turns smooth paste. you can alternatively, grind the dal and jaggery into the mixi jar.\nkeep cooking until the mixture thickens and hold the shape.\nnow add 1 tsp ghee and ½ tsp cardamom powder and cook for a minute, or until the mixture starts to separate the pan. if the mixture is undercooked, then the stuffing will be sticky and will be difficult to make a ball.\ntransfer to the plate and cool slightly. make sure not to overcook, else the stuffing turns hard.\ngrease hands with ghee and makes ball-sized stuffing.\nfinally, puran is ready. keep aside.\nhow to prepare poli (outer covering):\nfirstly, in a large bowl take 2 cup wheat flour, 1 cup maida, ¼ tsp turmeric, ¼ tsp salt and 2 tbsp oil.\nmix well making sure all the ingredients are well combined.\nnow add water as required and start to knead the dough.\nknead to a smooth and soft dough adding water in batches.\ngrease the dough with 2 tsp oil, cover and rest for at least 1 hour.\nafter 1 hour, punch and knead the dough again.\npinch a ball sized dough and make a smooth ball.\nform a cup by pressing the dough from the sides.\nplace a ball sized prepared puran (dal stuff).\nstart to stuff inside by pulling the dough without having any pleats.\nnow seal the dough without any cracks.\ndust the ball with maida and flatten slightly.\nnow roll the holige gently, without putting much pressure.\nroll as thin as possible and making sure the puran is distributed uniformly.\nnow cook the puran poli on hot tawa keeping the flame on medium.\nflip over once the base is half cooked.\nspread the ghee on both sides and cook well.\npuff the puran poli, making sure to cook uniformly\nfinally, enjoy puran poli with ghee or milk.",
+      "cat": "Maharashtrian",
+      "id": 6
+    },
+    {
+      "title": "Pizza",
+      "ingredient": "for pizza dough:\n½ cup warm water\n1 tsp sugar\n1 tsp dry yeast\n2 cups maida / plain flour / all-purpose flour\nsalt to taste\n3 tbsp olive oil\nwater as required (to knead)\nfor toppings:\n3 tbsp pizza sauce\n5 mushrooms (thinly sliced)\n3 tbsp onion (roughly chopped)\n¼ cup capsicum (roughly chopped)\n9 pickled jalapeños (based on spice level)\n¼ cup black olives (chopped)\n½ cup mozzarella cheese (grated)\n½ tsp oregano / italian seasonings / mixed herbs",
+      "step": "firstly, in a large mixing bowl take warm water, sugar and dry yeast and give a quick mix.\nallow it to rest for 5 minutes.\nnow add maida, salt and olive oil.\nknead the dough adding water as required.\ntuck the dough and form to a ball. place in a large mixing bowl.\ncover rest and rise in a warm place for about 2 hours.\npunch the dough with fist to release down the air.\nveg pizza baking recipe:\nplace the dough on dusted pizza plate or tray.\nflatten the dough by stretching with both hands.\nfurther, leaving a cm or more and create a dent.\nthen prick with centre of dough with the help of fork.\nfurthermore, spread pizza sauce generously leaving the sides slightly.\nalso top with topping of choice.\nthen spread grated cheese and sprinkle italian seasonings.\nfurther, bake at 500 degrees fahrenheit for about 12 - 15 minutes.\nfinally, slice and serve pizza hot.",
+      "cat": "Fast Food",
+      "id": 7
+    },
+    {
+      "title": "Burger",
+      "ingredient": "for patties:\n½ carrot (finely chopped)\n6 gobi / cauliflower (finely chopped)\n4 beans (finely chopped)\n2 tbsp sweet corn\n2 tbsp peas / matar\n¼ tsp salt\n3 potato / aloo (boiled & grated)\n¼ tsp cumin powder\n½ tsp garam masala\n¼ tsp turmeric\n½ tsp kashmiri red chilli powder\n¼ tsp chaat masala\n½ tsp salt\n2 tbsp coriander (finely chopped)\n¼ cup bread crumbs\nfor slurry:\n2 tbsp corn flour\n¼ cup maida / plain flour\n½ cup water\nother ingredients:\n1 cup panko breadcrumbs (for coating)\noil (for frying)\n3 tbsp eggless mayonnaise\n2 tbsp tomato sauce\n1 tsp chilli sauce\n3 burger bun\nfew slices tomato\nfew slices cucumber\npinch salt\nfew slices jalapeno\npinch pepper powder\n3 slices cheese",
+      "step": "veggie patties preparation:\nfirstly, steam ½ carrot, 6 gobi, 4 beans, 2 tbsp sweet corn, 2 tbsp peas and ¼ tsp salt.\nsteam for 10 minutes on medium flame.\ntransfer the steamed vegetables to large mixing bowl.\nalso, add 3 boiled and mashed potato.\nfurther, add ¼ tsp cumin powder, ½ tsp garam masala, ¼ tsp turmeric, ½ tsp chilli powder, ¼ tsp chaat masala and ½ tsp salt.\nadd 2 tbsp coriander and mix well combining all the spices well.\nfurthermore add ¼ cup bread crumbs and mix well. breadcrumbs help to absorb moisture from vegetables.\nprepare a slurry by mixing 2 tbsp cornflour, ¼ cup maida and ½ cup water in a small bowl.\nprepare ball sized patties and dip in maida slurry.\ncoat with panko breadcrumbs uniformly.\nshallow fry in hot oil keeping the flame on medium.\nfry on both sides, until it turns golden brown. drain off and keep aside.\nburger preparation:\nfirstly, in a small bowl take 3 tbsp eggless mayonnaise, 2 tbsp tomato sauce and 1 tsp chilli sauce.\nmix well-forming burger sauce.\nspread a tbsp of prepared burger sauce on the bun.\nplace a few slices of tomato, cucumber and jalapeno.\nsprinkle salt and pepper slightly.\nlayer with a cheese slice.\nfurther place prepared patties and cover with another part of the bun.\nfinally, enjoy veggie burger with chips and salad.",
+      "cat": "Fast Food",
+      "id": 8
+    },
+    {
+      "title": "Christmas Cake",
+      "ingredient": "for soaking dry fruits:\n100 grams dates / khajoor (chopped)\n100 grams raisins / kishmish\n50 grams tutti frutti (green)\n50 grams tutti frutti (red)\n200 grams mixed berry\n100 grams fig (chopped)\n50 grams apricot (chopped)\n200 ml grape juice\nfor cake batter:\n250 grams butter (softened)\n300 grams brown sugar\n50 grams oil\n130 grams curd\n300 grams maida\n50 grams almond powder\n¼ tsp baking soda\n1 tsp baking powder\n¼ tsp salt\n¼ tsp clove powder\n¼ tsp cinnamon powder\n2 tbsp pistachios (chopped)\n2 tbsp cherry (chopped)\n2 tbsp cashew (chopped)\nfor cherry syrup:\n2 tbsp cherry (chopped)\n¼ cup sugar\n1 cup water\n",
+      "step": "how to soak dried fruits for a perfect christmas fruitcake:\nfirstly, in a glass jar take 100 grams dates, 100 grams raisins, 50 grams tutti frutti, 50 grams tutti frutti, 200 grams mixed berry, 100 grams fig and 50 grams apricot.\nsoak in 200 ml grape juice. you can alternatively soak in orange juice, apple juice, brandy or rum.\nmix well and soak for atleast 8 hours or until the dried fruits absorb all the juice.\nplum cake batter preparation:\nfirstly, in a large bowl take 250 grams butter and 300 grams brown sugar.\nbeat well until the butter and sugar turn creamy. if you do not access to brown sugar then use white sugar. adding brown sugar makes cakes moist and gives good colour.\nnow add 50 grams oil and 130 grams curd. since we are not adding the egg, the curd is a good replacement for eggs.\ncontinue to beat until the mixture turns creamy like frosting.\nfurther, add 300 grams maida, 50 grams almond powder, ¼ tsp baking soda, 1 tsp baking powder, ¼ tsp salt, ¼ tsp clove powder and ¼ tsp cinnamon powder.\nusing a spatula, mix using cut and fold method. do not over mix as the cake turns chewy then.\nnow add soaked dried fruits. make sure the dried fruits have absorbed all the juice, else drain off the juice and add dried fruits.\nalso, add 2 tbsp pistachios, 2 tbsp cherry and 2 tbsp cashew.\nmix gently, making sure the dried fruits are well combined.\ntransfer the fruit cake batter to a cake tin. i have used tin of dia: 7 inch, height: 4 inch. make sure to line a butter paper at the bottom to prevent from sticking.\nand also tap twice to level up uniformly and remove any air bubbles if present.\nplace the cake pan into the preheated oven and bake at 160 degree for 1.5 hours.\ninsert a toothpick and check if the cake has baked completely.\ncool the cake and then unmould the eggless christmas cake.\ncherry syrup preparation for feeding the cake:\nfirstly, in pan take 2 tbsp cherry, ¼ cup sugar and 1 cup water.\nboil for 5 minutes or until the cherry softens.\ncool completely, and now cherry syrup is ready.\npoke the cake with the help of skewer. make sure not to damage the cake.\nnow pour the cherry syrup slowly. you can alternatively use alcohol to feed. the cake.\nrest for atleast 1 hour. so that the cake absorbs all the juice well.\nfinally, enjoy eggless christmas cake or store in an airtight container and serve up to a week.",
+      "cat": "Dessert",
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "type": "Maharashtrian",
+      "id": 1,
+      "image": "assets/maharashtrian.webp"
+    },
+    {
+      "type": "South Indian",
+      "id": 2,
+      "image": "assets/south.jpeg"
+    },
+    {
+      "type": "North Indian",
+      "id": 3,
+      "image": "assets/north.jpeg"
+    },
+    {
+      "type": "Fast Food",
+      "id": 4,
+      "image": "assets/fastfood.webp"
+    },
+    {
+      "type": "Dessert",
+      "id": 5,
+      "image": "assets/dessert.jpeg"
     }
   ]
 }
